@@ -28,7 +28,7 @@ int main() {
     collect = Integer % count;
     next_step = Integer / count;
     if (Integer % count == 0) {
-      printf("ตัวกระกอบของ %d = %d และ %d\n", Integer, count,next_step);
+      printf("ตัวประกอบของ %d = %d และ %d\n", Integer, count,next_step);
     }
   }
   return 0;
